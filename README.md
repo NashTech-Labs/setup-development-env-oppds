@@ -19,3 +19,9 @@ This repository contains python scripts for automating opening process of variou
 *py .\Slack.py*
 ### 8. setUpEnvironment(main)
 *py .\setUpEnvironment.py*
+
+#USAGE
+You can use this template for writing customized python script for reducing app opening overhead. Just change the path of your application in the *subprocess* method and give relevent name to the files.
+Call them in main.py file as if there are any dependency on one another.
+##For e.g.
+*subprocess.call('PATH-TO-YOUR-APPLICATION')*
