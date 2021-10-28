@@ -20,7 +20,7 @@ This will open Anypoint Studio with administrator privileges.<br/>
 This will open all application all together.
 *py .\main-parallely.py*
 ### 8. setUpEnvironment(main-sequantially)
-This will open all application all together.
+This will open all application one by one as each process ends.
 *py .\main-sequentially.py*
 
 # USAGE
