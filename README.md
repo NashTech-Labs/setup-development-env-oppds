@@ -4,7 +4,7 @@ Script to automate development environment for OPPDS-UKG (You can customize it f
 This repository contains python scripts for automating opening process of various application needed for development purpose in OPPDS.
 
 ### 1. Anypoint
-This will open Anypoint Studio with administrator privileges. 
+This will open Anypoint Studio with administrator privileges.<br/>
 *py .\Anypoint.py*
 ### 2. Chrome
 *py .\Chrome.py*
