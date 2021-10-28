@@ -25,6 +25,6 @@ This will open all application one by one as each process ends.
 
 # USAGE
 You can use this template for writing customized python script for reducing app opening overhead. Just change the path of your application in the *subprocess* method and give relevent name to the files.
-Call them in main.py file as if there are any dependency on one another.
+Call them in main.py file as if there are any dependency on one another. <br/>
 **For e.g.**
 *subprocess.call('PATH-TO-YOUR-APPLICATION')*
